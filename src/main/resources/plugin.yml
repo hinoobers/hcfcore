@@ -1,0 +1,4 @@
+name: hcfcore
+version: '1.0-SNAPSHOT'
+main: org.hinoob.hcfcore.HCFCore
+api-version: '1.20'
